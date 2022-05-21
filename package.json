@@ -1,0 +1,14 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Electron Tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "psyGamer",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}
